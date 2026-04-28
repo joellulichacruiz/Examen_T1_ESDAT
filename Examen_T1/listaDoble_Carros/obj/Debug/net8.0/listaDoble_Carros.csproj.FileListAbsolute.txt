@@ -1,0 +1,14 @@
+C:\Users\UPN\Desktop\Galarza_Pasapera_Pedro_Enrique\Examen_T1\listaDoble_Carros\bin\Debug\net8.0\listaDoble_Carros.exe
+C:\Users\UPN\Desktop\Galarza_Pasapera_Pedro_Enrique\Examen_T1\listaDoble_Carros\bin\Debug\net8.0\listaDoble_Carros.deps.json
+C:\Users\UPN\Desktop\Galarza_Pasapera_Pedro_Enrique\Examen_T1\listaDoble_Carros\bin\Debug\net8.0\listaDoble_Carros.runtimeconfig.json
+C:\Users\UPN\Desktop\Galarza_Pasapera_Pedro_Enrique\Examen_T1\listaDoble_Carros\bin\Debug\net8.0\listaDoble_Carros.dll
+C:\Users\UPN\Desktop\Galarza_Pasapera_Pedro_Enrique\Examen_T1\listaDoble_Carros\bin\Debug\net8.0\listaDoble_Carros.pdb
+C:\Users\UPN\Desktop\Galarza_Pasapera_Pedro_Enrique\Examen_T1\listaDoble_Carros\obj\Debug\net8.0\listaDoble_Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\Desktop\Galarza_Pasapera_Pedro_Enrique\Examen_T1\listaDoble_Carros\obj\Debug\net8.0\listaDoble_Carros.AssemblyInfoInputs.cache
+C:\Users\UPN\Desktop\Galarza_Pasapera_Pedro_Enrique\Examen_T1\listaDoble_Carros\obj\Debug\net8.0\listaDoble_Carros.AssemblyInfo.cs
+C:\Users\UPN\Desktop\Galarza_Pasapera_Pedro_Enrique\Examen_T1\listaDoble_Carros\obj\Debug\net8.0\listaDoble_Carros.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Galarza_Pasapera_Pedro_Enrique\Examen_T1\listaDoble_Carros\obj\Debug\net8.0\listaDoble_Carros.dll
+C:\Users\UPN\Desktop\Galarza_Pasapera_Pedro_Enrique\Examen_T1\listaDoble_Carros\obj\Debug\net8.0\refint\listaDoble_Carros.dll
+C:\Users\UPN\Desktop\Galarza_Pasapera_Pedro_Enrique\Examen_T1\listaDoble_Carros\obj\Debug\net8.0\listaDoble_Carros.pdb
+C:\Users\UPN\Desktop\Galarza_Pasapera_Pedro_Enrique\Examen_T1\listaDoble_Carros\obj\Debug\net8.0\listaDoble_Carros.genruntimeconfig.cache
+C:\Users\UPN\Desktop\Galarza_Pasapera_Pedro_Enrique\Examen_T1\listaDoble_Carros\obj\Debug\net8.0\ref\listaDoble_Carros.dll
